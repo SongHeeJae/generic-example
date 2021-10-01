@@ -121,7 +121,7 @@ public class Inheritance {
             return null;
         }
     }
-    
+
     public static void main(String[] args) {
         Integer i = 10;
         Number n = i;
